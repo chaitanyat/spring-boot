@@ -64,7 +64,7 @@ public class LoginController {
 		Map<String, Object> response = new HashMap<String, Object>();
 		String a = "success", b="true";
 		response.put(a, b);
-		
+
 		return response;		
 	}
 }
